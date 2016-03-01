@@ -69,6 +69,7 @@ class FeedViewController: UITableViewController {
     }
 
     // MARK: - Table view data source
+    // Adding to Git Comment
 
     override func numberOfSectionsInTableView(tableView: UITableView) -> Int {
         // #warning Incomplete implementation, return the number of sections
